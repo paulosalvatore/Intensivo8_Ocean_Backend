@@ -1,0 +1,47 @@
+[
+    {
+        "nome": "Parque Vila Lobos",
+        "endereco": "Vila Leopoldina",
+        "imagemUrl": "https://abrilvejasp.files.wordpress.com/2016/11/parque-villa-lobos-3.jpeg?quality=70&strip=info&w=928",
+        "horarioInicio": 9,
+        "horarioFim": 18,
+        "valorDisponivel": 10,
+        "pessoa": "Geisson"
+    },
+    {
+        "nome": "Cinema",
+        "endereco": "Avenida Morumbi, 200",
+        "imagemUrl": "https://media-cdn.tripadvisor.com/media/photo-s/09/fb/ef/53/cinemark.jpg",
+        "horarioInicio": 20,
+        "horarioFim": 22,
+        "valorDisponivel": 50,
+        "pessoa": "Rafael"
+    },
+    {
+        "nome": "Pico do Jaraguá",
+        "endereco": "Rua Antônio Cardoso Nogueira, 539",
+        "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRylPX71KuawtBq-l8TQ-ttf3CBhA0EFTbroTzyYgHMG9mPqwwQ&usqp=CAU",
+        "horarioInicio": 7,
+        "horarioFim": 17,
+        "valorDisponivel": 0,
+        "pessoa": "Rodrigo"
+    },
+    {
+        "nome": "Arena Corinthians",
+        "endereco": "Av. Miguel Ignácio Curi, 111",
+        "imagemUrl": "https://maquinadoesporte.uol.com.br/media/imagens/arena_corinthians.jpg",
+        "horarioInicio": 18,
+        "horarioFim": 22,
+        "valorDisponivel": 100,
+        "pessoa": "Rafaela"
+    },
+    {
+        "nome": "Aska",
+        "endereco": "R. Galvão Bueno, 466",
+        "imagemUrl": "https://i.ytimg.com/vi/bO8kAIQNcv4/hqdefault.jpg",
+        "horarioInicio": 12,
+        "horarioFim": 18,
+        "valorDisponivel": 5,
+        "pessoa": "Felipe"
+    }
+]
